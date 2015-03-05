@@ -1,2 +1,2 @@
 # docs
-BCDevExchange artefacts including documents, templates, a WIKI and other useful things.
+BCDevExchange artefacts including documents, templates, a [WIKI]("wiki/") and other useful things.
