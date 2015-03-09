@@ -20,7 +20,7 @@ To communicate ideas about target solutions.  In this document we will describe 
 This is the result and ongoing process of listening to the product owners, subject matter experts and user groups.  
 
 **What’s next?**
-This is not the first iteration of BC Developers’ Exchange, nor the last.  This is Discovery.
+This is not the first iteration of BC Developers’ Exchange, nor the last.  This is [Discovery](projectstates.md).
  
 ###Who's who in the zoo and what to they do?
 
