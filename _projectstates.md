@@ -1,5 +1,7 @@
 <a rel="research" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
+##Project States
+
 **Release 1:** Each project has a current state / status, which is intended to give a rough indication of where the project is at, which are currently conceived as Research, Discovery, or Delivery. The project state / status will be prominently displayed in the user interface of the BCDevExchange website. See [[State Labels|state labels]] for examples.
 
 
