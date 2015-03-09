@@ -1,7 +1,7 @@
 This is a content test.
 
 [Home](docs/)
-* [Accounts](docs/blob/master/_accounts.md)
+* [Accounts](_accounts.md)
 * [Organizations](docs/_organizations.md)
 * [Profiles](docs/_profiles.md)
     * [Interests](docs/_interests.md)
