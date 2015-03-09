@@ -1,5 +1,9 @@
 <a rel="research" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
+---
+[Back to Discussion Index](../discussion_index.md)
+
+
 ##Resources
 
 **Release 1:** BCDevExchange will host an exchange allowing users to post Resources visible to other users. Resources are intended to reflect actual things, usually digital resources, such as code, APIs, applications, and datasets. We are hoping to create a search function on BCDevExchange that looks at both a) GitHub repos and b) registered catalogues, and display things identified as resources (see below Future State 2 and 3). Intention is to delay any implementation of a database / significant back end with stored data on BCDevExchange, and instead rely on external data, functions, and services.
