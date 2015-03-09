@@ -1,3 +1,5 @@
+<a rel="research" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
+
 # Welcome to the BCDevExchange discussion folder!
 
 This is where we are sharing the concepts and entities that are being being considered to build the framework for BCDevExchange.org. Most of the content in here is continuing to be defined and refined, and should be considered [Research State](projectstates.md).
