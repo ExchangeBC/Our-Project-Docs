@@ -1,5 +1,9 @@
 <a rel="research" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
+---
+[Back to Discussion Index](../discussion_index.md)
+
+
 ##Profiles
 
 **Release 1:** A tool is being considered to allow users to search profiles based on certain criteria – such as credentials, skills, or accreditation – to allow users to find people instead of Resources or Projects via the exchange. Although the concept of Profiles will develop over time, the current proposed approach is for the development team to investigate ways to integrate with LinkedIn to use skills, credentials, and experience information that already exists, so users don’t have to maintain multiple skills profiles (leveraging what’s in LinkedIn), which would be made available to the BCDevExchange via registering / signing up with a LinkedIn account.  
