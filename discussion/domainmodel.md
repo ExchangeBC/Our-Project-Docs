@@ -4,4 +4,4 @@
 [Back to Discussion Index](../discussion_index.md)
 
 
-![exchange model](https://cloud.githubusercontent.com/assets/10409349/6494891/f1b3006a-c279-11e4-8d0a-b402a622e2a8.PNG) 
+![exchange model](../images/Exchange Model.PNG) 
