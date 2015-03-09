@@ -15,7 +15,7 @@ Index for Discussion folder content.
     * [LinkedIn and Profiles](discussion/linkedin.md)
 * [Projects](discussion/projects.md)
     * [Project States](discussion/projectstates.md)
-    * [Opportunities](discussion/opporunities.md)
+    * [Opportunities](discussion/opportunities.md)
     * [Projects in GitHub](discussion/github.md) 
 * [Resources](discussion/resources.md)
     * [Resources in GitHub](discussion/github.md)
