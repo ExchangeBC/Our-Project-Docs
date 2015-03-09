@@ -1,7 +1,7 @@
 This is a content test.
 
 [Home](docs/)
-* [Accounts](docs/_accounts.md)
+* [Accounts](docs/blob/master/_accounts.md)
 * [Organizations](docs/_organizations.md)
 * [Profiles](docs/_profiles.md)
     * [Interests](docs/_interests.md)
@@ -19,3 +19,5 @@ Architecture
 * [[Architecture Document|architecture overview]]
 * [[Developer Registration|developer registration]]
 * [[Domain Model|domain model]]
+* 
+https://github.com/BCDevExchange/docs/blob/master/_accounts.md
