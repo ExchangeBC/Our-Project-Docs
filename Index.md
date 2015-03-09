@@ -2,8 +2,8 @@ This is a content test.
 
 [Home](docs/)
 * [Accounts](_accounts.md)
-* [Organizations](docs/_organizations.md)
-* [Profiles](docs/_profiles.md)
+* [Organizations](_organizations.md)
+* [Profiles](_profiles.md)
     * [Interests](docs/_interests.md)
     * [LinkedIn and Profiles](docs/_linkedin.md)
 * [Projects](docs/_projects.md)
