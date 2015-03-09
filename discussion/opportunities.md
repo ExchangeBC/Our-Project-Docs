@@ -1,5 +1,9 @@
 <a rel="research" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
+---
+[Back to Discussion Index](../discussion_index.md)
+
+
 ##Opportunities
 
 **Future State:** One of the objectives of BCDevExchange is to help facilitate connections and collaboration between people or organizations with needs, with other people or organizations that have solutions.
