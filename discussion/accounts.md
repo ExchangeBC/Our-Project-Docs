@@ -1,6 +1,6 @@
 <a rel="research" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 ---
-../discussion_index.md
+[Back to Discussion Index](../discussion_index.md)
 
 ## Accounts
 BCDevExchange will support the creation and maintenance of user accounts. 
