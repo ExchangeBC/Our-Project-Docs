@@ -1,5 +1,7 @@
 <a rel="research" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
+##State Labels
+
 **Release 1:** A visual identifier will be used to identify the current state for all elements within and supported by the BCDevExchange. This will include Projects and Resources, as well as functionality and pages within the BCDevExchange website. Below are prototype images that may be used to identify the current state of each element, with terminology corresponding to the proposed [[Project States|project states]]. 
 
 ##Labels for Web Pages / Content  
