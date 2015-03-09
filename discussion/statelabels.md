@@ -6,7 +6,7 @@
 
 ##State Labels
 
-**Release 1:** A visual identifier will be used to identify the current state for all elements within and supported by the BCDevExchange. This will include Projects and Resources, as well as functionality and pages within the BCDevExchange website. Below are prototype images that may be used to identify the current state of each element, with terminology corresponding to the proposed [[Project States|project states]]. 
+**Release 1:** A visual identifier will be used to identify the current state for all elements within and supported by the BCDevExchange. This will include Projects and Resources, as well as functionality and pages within the BCDevExchange website. Below are prototype images that may be used to identify the current state of each element, with terminology corresponding to the proposed [Project States](projectstates.md). 
 
 ##Labels for Web Pages / Content  
 __Badges__
