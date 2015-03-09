@@ -1,6 +1,6 @@
 This is a content test.
 
-[Home](docs/discussion_index.md)
+[Home](discussion_index.md)
 * [Accounts](discussion/accounts.md)
 * [Organizations](discussion/organizations.md)
 * [Profiles](discussion/profiles.md)
