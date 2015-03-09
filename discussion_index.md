@@ -1,6 +1,8 @@
-This is a content test.
+Index for Discussion folder content.
 
-[Home](discussion_index.md)
+---
+
+[Discussion Index](discussion_index.md)
 * [Accounts](discussion/accounts.md)
 * [Organizations](discussion/organizations.md)
 * [Profiles](discussion/profiles.md)
