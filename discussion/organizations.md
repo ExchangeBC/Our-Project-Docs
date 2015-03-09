@@ -1,5 +1,9 @@
 <a rel="research" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
+---
+[Back to Discussion Index](../discussion_index.md)
+
+
 ##Organizations
 
 A BCDevExchange Organization is an entity that exists parallel to profiles. Where account profiles are a representation of an individual’s interactions with BCDevExchange, an Organization is a representation of a group’s interactions with BCDevExchange.
