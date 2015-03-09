@@ -1,11 +1,11 @@
 This is a content test.
 
 [Home](docs/)
-* [Accounts](_accounts.md)
-* [Organizations](_organizations.md)
-* [Profiles](_profiles.md)
-    * [Interests](docs/_interests.md)
-    * [LinkedIn and Profiles](docs/_linkedin.md)
+* [Accounts](accounts.md)
+* [Organizations](organizations.md)
+* [Profiles](profiles.md)
+    * [Interests](interests.md)
+    * [LinkedIn and Profiles](linkedin.md)
 * [Projects](docs/_projects.md)
     * [Project States](docs/_projectstates.md)
     * [Opportunities](docs/_opporunities.md)
