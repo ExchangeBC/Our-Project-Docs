@@ -1,6 +1,6 @@
 This is a content test.
 
-[Home](docs/)
+[Home](docs/discussion_index.md)
 * [Accounts](discussion/accounts.md)
 * [Organizations](discussion/organizations.md)
 * [Profiles](discussion/profiles.md)
@@ -15,9 +15,8 @@ This is a content test.
 * [State Labels](discussion/statelabels.md)
 
 Architecture 
-* [[Design Principles|design principles]]
-* [[Architecture Document|architecture overview]]
-* [[Developer Registration|developer registration]]
-* [[Domain Model|domain model]]
-* 
-https://github.com/BCDevExchange/docs/blob/master/_accounts.md
+* [Design Principles]()
+* [Architecture Document]()
+* [Developer Registration]()
+* [Domain Model]()
+
