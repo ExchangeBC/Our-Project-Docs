@@ -3,6 +3,8 @@
 ---
 [Back to Discussion Index](../discussion_index.md)
 
+##Developer Registration
+
 In this document, we hope to describe the developer registration prototype in the following aspects:
 * Purpose;
 * Identity framework assessment;
