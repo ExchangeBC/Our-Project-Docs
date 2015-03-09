@@ -8,9 +8,9 @@
 
 **Release 1:** BCDevExchange will support the concept of a Project, which is a record reflecting some sort of program, project, initiative, activity, or task that is occurring in the real world, and is presumably of some interest to the members of BCDevExchange. This is intended to allow people to share information of ongoing activities with the rest of BCDevExchange, and could include everything from a concept that people are looking to discuss, to an unmet business need looking for suggestions for a solution, to an active development activity (and using a [[Project State|project states]] to help indicate where it currently is). Not all Projects will have any kind of output. While some may produce some sort of usable digital resource, such as an application or piece of code, others may start and end in the Research state, never changing to the Discovery or Delivery states. A project will include a title and description, and a current state / status. 
 
-For early releases, we are looking at a way to identify GitHub repos identified as projects, via a search on BCDevExchange. Some identifier in the repo could be used to flag the project state when it is displayed on BCDevExchange, using the [[Project State|project states]] iconography / definitions.
+For early releases, we are looking at a way to identify GitHub repos identified as projects, via a search on BCDevExchange. Some identifier in the repo could be used to flag the project state when it is displayed on BCDevExchange, using the [Project State](projectstates.md) iconography / definitions.
 
-**Future State:** Like resources, projects are created in the context of a specific [[profile|profiles]] (either against an Individual profile or Organization profile). Unlike Resources, but like [[Organizations|organizations]], projects can be owned and shared by multiple users (against a specific profile), with certain profiles having different rights to maintain the project. Like organizations, users can be invited to a project (at the profile level), or can request an invite to the project (at the profile level). Users who are not part of a project can still sign up to follow a project, to receive notifications of updates.  
+**Future State:** Like resources, projects are created in the context of a specific [profile](profiles.md) (either against an Individual profile or Organization profile). Unlike Resources, but like [[Organizations|organizations]], projects can be owned and shared by multiple users (against a specific profile), with certain profiles having different rights to maintain the project. Like organizations, users can be invited to a project (at the profile level), or can request an invite to the project (at the profile level). Users who are not part of a project can still sign up to follow a project, to receive notifications of updates.  
 
 Within the context of a project, users can create posts to share with BCDevExchange community as a whole, or only to users associated with the project, and respond to those posts. Projects may also link to related sites, such as GitHub repos or forums outside of BCDevExchange.  
 
@@ -18,7 +18,7 @@ Projects may be related to one or more BCDevExchange resources, with the same Re
 
 ###Projects as Opportunities 
 
-**Future State:** The Project concept / element is intended to be where [[Unmet Needs or Contract Opportunities|opportunities]] would be defined, either as the project itself, or a new element hanging off of the project element. This idea needs further expansion and exploration. 
+**Future State:** The Project concept / element is intended to be where [Unmet Needs or Contract Opportunities](opportunities.md) would be defined, either as the project itself, or a new element hanging off of the project element. This idea needs further expansion and exploration. 
 
 ###Project Backlogs
 
