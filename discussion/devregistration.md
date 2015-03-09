@@ -47,14 +47,14 @@ Developers should be able to choose which other members they would like to have 
 
 The following diagram depicts the information flow as a developer signs up to BCDevExchange. For technical readers, these are implemented using OAuth2.
 
-![Image 1.1](https://cloud.githubusercontent.com/assets/10409349/6509588/26b648b2-c315-11e4-8d99-883d293fd641.png)
+![Image 1.1](../images/1.1.png)
 
 The following diagram depicts the information flow as a developer signs up to BCDC. BCDC will rely on BCDevExchange as an authentication gateway and simple identity provider. And in turn, BCDevExchange will rely on GitHub for authentication services.  
 
 The API Manager (WS02) cannot readily integrate with social logins. For prototyping purposes ONLY, we will require users create a username and password for the API Manager.  
 
 
-![Image 2](https://cloud.githubusercontent.com/assets/10409349/6509587/26b55f24-c315-11e4-8d78-8ef86b828426.png)
+![Image 2](../images/1.2.png) 
 
 Note: users are usually persistently logged onto GitHub so the credentials would not have to be re-entered.  
 
