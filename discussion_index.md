@@ -15,8 +15,8 @@ This is a content test.
 * [State Labels](discussion/statelabels.md)
 
 Architecture 
-* [Design Principles]()
-* [Architecture Document]()
-* [Developer Registration]()
-* [Domain Model]()
+* [Design Principles](discussion/principles.md)
+* [Architecture Document](discussion/architecture.md)
+* [Developer Registration](discussion/devregistration.md)
+* [Domain Model](discussion/domainmodel.md)
 
