@@ -1,5 +1,8 @@
 <a rel="discovery" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="Being designed and built, but in the lab. May change, disappear, or be buggy." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Discovery-yellow.svg" title="Being designed and built, but in the lab. May change, disappear, or be buggy." /></a>
 
+---
+[Back to Discussion Index](../discussion_index.md)
+
 In this document, we hope to describe the developer registration prototype in the following aspects:
 * Purpose;
 * Identity framework assessment;
