@@ -1,3 +1,8 @@
+<a rel="research" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
+
+---
+[Back to Discussion Index](../discussion_index.md)
+
 ##Lab
 
 In support of the principles of open development and co-creation, it is proposed that the BCDevExchange website be enhanced to not only include functionality and content in the Delivery state, but also allow for the inclusion and sharing of functionality and content that is in the Discovery state (and possibly even the Research state in some cases, such as content). This option may (will?) only be available to users who have signed up with the BCDevExchange, who will then be presented with optional functionality allowing them to switch between the Delivery (Normal) (final, polished state) and Discovery (Lab) (in progress, figuring stuff out, possibly full of disclaimers) states. Users should be able to switch between these states at any time after logging in. When entering the Lab state, the site will provide a message warning to the user that they are entering the Lab, provide any required disclaimers, an overview of the state concepts used in the Lab, and possibly a ‘what’s new in the Lab’ summary. 
