@@ -15,6 +15,7 @@ Index for Discussion folder content.
 * [Resources](discussion/resources.md)
     * [Resources in GitHub](discussion/github.md)
 * [State Labels](discussion/statelabels.md)
+* [Lab](discussion/lab.md)
 
 Architecture 
 * [Design Principles](discussion/principles.md)
