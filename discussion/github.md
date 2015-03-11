@@ -1,4 +1,4 @@
-<a rel="research" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
+<a rel="research" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
 ---
 [Back to Discussion Index](../discussion_index.md)
@@ -8,7 +8,7 @@
 
 To support the principle of relying on external data, it is proposed that GitHub be used as a source of data for BCDevExchange.org. Some proposed ideas are discussed below. 
 
-**Release 1:** To help avoid having to build out a backend or store data on BCDevExchange, it’s proposed that we utilize GitHub as a ‘back end’ / database. This could theoretically be used to store information for any of the elements discussed in this document (Profiles, Organizations, Resources, Interests, or Projects), but would probably be initially used just for [[Resources|resources]] and [[Projects|projects]].
+**Release 1:** To help avoid having to build out a backend or store data on BCDevExchange, it’s proposed that we utilize GitHub as a ‘back end’ / database. This could theoretically be used to store information for any of the elements discussed in this document (Profiles, Organizations, Resources, Interests, or Projects), but would probably be initially used just for [Resources](resources.md) and [Projects](projects.md).
  
 An idea being discussed is tagging a Repo’s readme.md with an identifier flagging it as a Project (BCDevExchange-Project) or a Resource (BCDevExchange-Resource), and having BCDevExchange search functionality return these as part of relevant queries. Some sort of structure within a Project Repo may also be useful for displaying a Project backlog to users via BCDevExchange, such as an associated issues list, which can be retrieved by BCDevExchange post query. 
 
@@ -31,4 +31,4 @@ GitHub has an API available for querying its repos and files. There are some lim
 
 ###Organizations
 
-**Future State:** [[Organizations|organizations]] maintained in GitHub could be identified through the presence of an associated .md (with naming convention or content) or specific keywords in their description, and used to populate search results from BCDevExchange.org.
+**Future State:** [Organizations](organizations.md) maintained in GitHub could be identified through the presence of an associated .md (with naming convention or content) or specific keywords in their description, and used to populate search results from BCDevExchange.org.
