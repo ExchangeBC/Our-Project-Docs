@@ -13,4 +13,4 @@ The lab functionality will only be available to users who have signed up with th
 
 When interacting with any project within the BCDevExchange lab, the current state of each project, page, resource, or function should be clearly displayed to the user at all times, through the display of the appropriate state tag (Research, Discovery, or Delivery). 
 
-![Lab Wireframe](https://github.com/BCDevExchange/docs/blob/master/wireframes/Lab.PNG)
+![Lab Wireframe](../wireframes/Lab.PNG)
