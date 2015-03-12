@@ -1,0 +1,247 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1235" measuredH="802" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextArea" x="576" y="206" w="240" h="24" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Account%20name%20for%20display%20on%20BCDevX</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="477" y="206" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Account%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::CheckBox" x="576" y="245" w="-1" h="-1" measuredW="441" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Yes%2C%20please%20keep%20me%20up%20to%20date%20about%20the%20BCDevExchange%20Experiment%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::CheckBox" x="576" y="272" w="-1" h="-1" measuredW="633" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Yes%2C%20share%20my%20profile%20with%20the%20rest%20of%20the%20community%20so%20I%20can%20be%20contacted%20about%20potential%20opportunities%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="211" y="34" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BC%20Developers%20Exchange%0Ahttp%3A//bcdevx.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::MenuBar" x="214" y="107" w="1021" h="29" measuredW="623" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2221%2C83%2C68%2C96%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%22122%22/%3E</map>
+        <text>%20Home%2C%20Who%27s%20Involved%20%28coming%20soon%29%2C%20Get%20Involved%20%28coming%20soon%29%2C%20Contact%20Us%20%28coming%20soon%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>LeftArrowIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Icon" x="329" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml</href>
+        <icon>HomeIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C25%2C142%2C49%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%22124%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::SubTitle" x="460" y="162" w="-1" h="-1" measuredW="395" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BCDevExchange%20-%20Account%20Created%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Tree" x="218" y="162" w="196" h="602" measuredW="300" measuredH="225" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <text>f%20My%20Account%0Af%20My%20Profiles%0A%20%0A%20%20</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::Button" x="576" y="332" w="110" h="27" measuredW="104" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Already%20Done%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Label" x="447" y="332" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Linked%20with%20GitHub%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Button" x="576" y="368" w="110" h="27" measuredW="79" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>4.0%20LinkedIn%20Sign%20In%26bm%3B4.0%20LinkedIn%20Sign%20In.bmml%26bm%3B4.0%20LinkedIn%20Sign%20In.bmml%26bm%3B4.0%20LinkedIn%20Sign%20In.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22365%2C334%2C475%2C361%22%20href%3D%224.0%2520LinkedIn%2520Sign%2520In.bmml%22%20alt%3D%224.0%20LinkedIn%20Sign%20In%22%20id%3D%22155%22/%3E</map>
+        <text>Link%20Now%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::StickyNote" x="227" y="248" w="193" h="150" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Very%20basic%20information%20only%20for%20Release%201.%0A%20%0ASubsequent%20Releases%20may%20include%20additional%20information.</text>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::TextArea" x="559" y="467" w="240" h="24" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GitHub%20Repo1</text>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::SubTitle" x="460" y="414" w="-1" h="-1" measuredW="251" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Register%20GitHub%20Repos</text>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::TextArea" x="559" y="491" w="240" h="24" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GitHub%20Repo2</text>
+      </controlProperties>
+    </control>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::TextArea" x="559" y="515" w="240" h="24" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GitHub%20Repo3</text>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::TextArea" x="559" y="539" w="240" h="24" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GitHub%20Repo4</text>
+      </controlProperties>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::Button" x="951" y="466" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Activate</text>
+      </controlProperties>
+    </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Button" x="951" y="490" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Activate</text>
+      </controlProperties>
+    </control>
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::Button" x="951" y="538" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Activate</text>
+      </controlProperties>
+    </control>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Button" x="951" y="514" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Activate</text>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::ComboBox" x="874" y="467" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>State</text>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::ComboBox" x="874" y="491" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>State</text>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::ComboBox" x="874" y="515" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>State</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::ComboBox" x="874" y="539" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>State</text>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::ComboBox" x="805" y="467" w="-1" h="-1" measuredW="60" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::ComboBox" x="805" y="491" w="-1" h="-1" measuredW="60" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::ComboBox" x="805" y="515" w="-1" h="-1" measuredW="60" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::ComboBox" x="805" y="539" w="-1" h="-1" measuredW="60" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::CheckBox" x="1040" y="466" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::CheckBox" x="1040" y="493" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::CheckBox" x="1040" y="517" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::CheckBox" x="1040" y="541" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::Label" x="559" y="446" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::Label" x="874" y="446" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Set%20State</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Label" x="805" y="446" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Set%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::Label" x="1021" y="446" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Forked</text>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::Label" x="1076" y="446" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Completed</text>
+      </controlProperties>
+    </control>
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::CheckBox" x="1099" y="467" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::CheckBox" x="1099" y="494" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::CheckBox" x="1099" y="518" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::CheckBox" x="1099" y="542" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Paragraph" x="460" y="577" w="717" h="174" measuredW="275" measuredH="80" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%27ve%20found%20your%20Repos%20in%20GitHub%20based%20on%20the%20account%20information%20you%20provided.%20If%20these%20Repos%20contain%20Resources%20or%20Projects%20you%20want%20to%20share%20with%20the%20BCDevExchange%20community%2C%20let%20us%20know%20what%20they%20are%2C%20and%20what%20_project%20state_%20they%20are%20in.%20%0A%20%0AWhen%20you%20press%20the%20Activate%20button%2C%20the%20BCDevExchange%20on%20GitHub%20will%20automatically%201%29%20fork%20your%20Repo%2C%202%29%20update%20the%20Readme.md%20with%20some%20text%20that%20allows%20our%20search%20function%20to%20find%20and%20identify%20them%2C%203%29%20assign%20your%20Repo%20some%20sweet%20badges%20%28for%20the%20state%29%2C%20and%204%29%20send%20you%20a%20pull%20request.%20%0A%20%0AOnce%20you%27ve%20accepted%20the%20pull%20request%2C%20your%20Repo%20will%20start%20showing%20up%20on%20BCDevExchange.%20If%20you%20ever%20change%20your%20mind%20and%20want%20to%20get%20a%20Repo%20off%20of%20BCDevExchange%2C%20just%20update%20the%20Readme.md%20to%20remove%20the%20text%20we%20added%20%28should%20be%20clearly%20marked%20at%20the%20bottom%20of%20the%20Readme.md%29.</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::Label" x="437" y="368" w="-1" h="-1" measuredW="127" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Linked%20with%20LinkedIn%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::Button" x="946" y="305" w="110" h="27" measuredW="52" measuredH="27" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
