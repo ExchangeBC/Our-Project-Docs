@@ -15,14 +15,6 @@ The lab functionality will only be available to users who have signed up with th
 
 When interacting with any project within the BCDevExchange lab, the current state of each project, page, resource, or function should be clearly displayed to the user at all times, through the display of the appropriate state tag (Research, Discovery, or Delivery). 
 
-###Mockup
-
-Several ideas are being considered for how the Lab concept will be handled. The below mockup shows a lab landing page, accessed via BCDevExchange, which would provide links to different things in the lab. 
-
-![Lab Wireframe](../wireframes/Lab.PNG)
-
-In both solutions presented below, BCDevExchange would be considered a 'project' among other projects.  It would have a link to a lab version of BCDevExchange (currently located at lab.bcdevexchange.org).  
-
 ## Solution Option 1 ##
 
 Create a very distinct separation of BCDevExchange.org from Lab area. 
@@ -34,6 +26,12 @@ Create a very distinct separation of BCDevExchange.org from Lab area.
 3. User see a page listing all labs
 
 The existing BCDevExchange.org app could provide support use-case.   
+
+###Mockup
+
+Several ideas are being considered for how the Lab concept will be handled. The below mockup shows a lab landing page, accessed via BCDevExchange, which would provide links to different things in the lab. 
+
+![Lab Wireframe](../wireframes/Lab.PNG)
 
 ### Benefits:
 1. Very clear distinct of lab things
@@ -66,3 +64,5 @@ The existing BCDevExchange.org app could provide support use-case.
 
 1. Single view for all states if not communicated clearly would lead higher expectations for things in research or discovery.
 
+*Note:*
+In both solutions presented above, BCDevExchange would be considered a 'project' among other projects.  It would have a link to a lab version of BCDevExchange (currently located at lab.bcdevexchange.org).  
