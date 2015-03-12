@@ -12,3 +12,5 @@ In addition to providing a location and framework for the BCDevExchange to share
 The lab functionality will only be available to users who have signed up with the BCDevExchange. In early days, the lab area may be further limited to select users or groups as the lab idea is further defined and refined. Users should be able to navigate between BCDevExchange and its lab area after logging in. When entering the Lab state, the site will provide a message warning to the user that they are entering the lab, provide any required disclaimers, an overview of the state concepts used in the lab, and possibly a ‘what’s new in the lab’ summary. 
 
 When interacting with any project within the BCDevExchange lab, the current state of each project, page, resource, or function should be clearly displayed to the user at all times, through the display of the appropriate state tag (Research, Discovery, or Delivery). 
+
+![Lab Wireframe](https://github.com/BCDevExchange/docs/blob/master/wireframes/Lab.PNG)
