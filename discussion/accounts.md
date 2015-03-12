@@ -11,3 +11,10 @@ BCDevExchange will support the creation and maintenance of user accounts.
 **Future State:** Each account will reflect a single person / user, but can have multiple associated profiles to indicate the different contexts from which the person is interacting with BCDevExchange. For example, a BCDevExchange account may have a single Individual profile, as well as multiple Organization specific profiles (each derived from their association with an Organization). Certain core information is shared between all profiles, and maintained against the core account itself, while other information is profile specific, and not shared between profiles. These concepts and data relationships are expected to evolve  over time as functionality is rolled out. 
 
 Users need to be able to sign in and sign out of BCDevExchange. When signing in, they should be prompted to define the context of their current session, allowing them to choose between the different profiles associated with their account. This sign in context will impact how they interact with features within BCDevExchange, such as defaulting the owner of newly created resources, or what sort of profile maintenance functions they have access to. Users should be able to swap contexts within a signed in session, without having to first sign out.
+
+##Mockup
+
+Linking repos is being considered for a future release, allowing members of BCDevExchange to self register and maintain projects and resources (via GitHub repos).
+
+![Accounts](../wireframes/Account.PNG)
+
