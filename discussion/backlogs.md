@@ -1,3 +1,8 @@
+<a rel="research" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Research-red.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
+
+---
+[Back to Discussion Index](../discussion_index.md)
+
 ###Project Backlogs
 
 **Future Release:** A backlog is a list of activities, ideas, features, or enhancements being considered for a Project. It’s proposed that the GitHub Issues functionality be used to support backlogs for Projects located in GitHub. The issue list associated with a project repo would hold its backlog.
