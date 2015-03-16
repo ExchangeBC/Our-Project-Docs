@@ -11,6 +11,7 @@ Index for Discussion folder content.
 * [Projects](discussion/projects.md)
     * [Project States](discussion/projectstates.md)
     * [Opportunities](discussion/opportunities.md)
+    * [Project Backlogs](discussion/backlogs.md)
     * [Projects in GitHub](discussion/github.md) 
 * [Resources](discussion/resources.md)
     * [Resources in GitHub](discussion/github.md)
