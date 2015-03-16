@@ -17,7 +17,7 @@ When interacting with any project within the BCDevExchange lab, the current stat
 
 ## Solution Option 1 ##
 
-Create a very distinct separation of BCDevExchange.org from Lab area. 
+Create a very distinct separation of BCDevExchange.org from Lab area. The lab area exists parallel to BCDevExchange.org, and creates a place for a lab version of BCDevExchage.org to live, as well as other projects / code in lab state.  
 
 ### Use-case:
 
@@ -25,7 +25,7 @@ Create a very distinct separation of BCDevExchange.org from Lab area.
 2. User selects top level nav item 'Labs'
 3. User see a page listing all labs
 
-The existing BCDevExchange.org app could provide support use-case.   
+The existing BCDevExchange.org app could provide the supporting use-case for why we need the lab space.   
 
 ###Mockup
 
