@@ -1,3 +1,7 @@
+<a rel="Inspiration" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="http://bcdevexchange.org/badge/1.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
+
+---
+
 This folder is intended to be used to circulate draft wireframes. 
 
 .PNG files are images viewable by everyone, and are referenced by some of the .md files in docs/discussion 
