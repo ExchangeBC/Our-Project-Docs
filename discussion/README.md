@@ -4,7 +4,7 @@
 
 # Welcome to the BCDevExchange discussion folder!
 
-This is where we are sharing the concepts and entities that are being being considered to build the framework for BCDevExchange.org. Most of the content in here is continuing to be defined and refined, and should be considered [Research State](projectstates.md).
+This is where we are sharing the concepts and entities that are being being considered to build the framework for BCDevExchange.org. Most of the content in here is continuing to be defined and refined, and should be considered [Inspiration State](projectstates.md).
 
 If creating a page, please consider adding an Inspiration Badge, by adding the below code (adds Inspiration Badge with alt text description). 
 
