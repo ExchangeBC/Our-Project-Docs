@@ -8,4 +8,6 @@ This folder is intended to be used to circulate draft wireframes.
 
 .bmml files are Balsamiq files, which can be forked / edited by those with access to Balsamiq (the wireframe tool  used by some members of the BCDevExchange dev team). https://balsamiq.com/
 
+We'd love to get your feedback on any of these wireframes. Check out the lab on BCDevExchange and see some of these actually being built!
+
 
