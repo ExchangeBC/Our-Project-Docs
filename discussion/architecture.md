@@ -22,7 +22,7 @@ This is the result and ongoing process of listening to the product owners, subje
 **What’s next?**
 This is not the first iteration of BC Developers’ Exchange, nor the last.  This is [Discovery](projectstates.md).
  
-###Who's who in the zoo and what to they do?
+###Who's who in the zoo and what do they do?
 
 There are three major types of players in the BC Developers’ Exchange  domain fostering a thriving technology community.  First, the providers have resources and collateral.  BC Government is a major provider, but so too is all of BC’s broader public sector including crown corps, agencies and municipalities. Providers collaborate with and need services from developers.  Second, developers need resources to invent new business. And third, what is BC Developers’ Exchange  doing?  It connects providers with developers in channels for research, discovery and delivery.
 
