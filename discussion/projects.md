@@ -18,4 +18,7 @@ Projects may be related to one or more BCDevExchange resources, with the same Re
 
 ###Projects as Opportunities 
 
-**Future State:** The Project concept / element is intended to be where [Unmet Needs or Contract Opportunities](opportunities.md) would be defined, either as the project itself, or a new element hanging off of the project element. This idea needs further expansion and exploration. 
+**Future State:** The Project concept / element is intended to be where [Unmet Needs or Contract Opportunities](opportunities.md) would be defined, either as the project itself, or a new element hanging off of the project element (such as [project backlogs](backlogs.md)). This idea needs further expansion and exploration. 
+
+###Mockup
+![Project Page](../wireframes/Project Page.PNG)
