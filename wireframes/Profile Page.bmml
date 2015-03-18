@@ -1,0 +1,206 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1235" measuredH="802" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="211" y="34" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BC%20Developers%20Exchange%0Ahttp%3A//bcdevexchange.org/people</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>5.0.1.1%20Resource%20search%20results%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml</href>
+        <icon>LeftArrowIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C25%2C40%2C49%22%20href%3D%225.0.1.1%2520Resource%2520search%2520results.bmml%22%20alt%3D%225.0.1.1%20Resource%20search%20results%22%20id%3D%2291%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Icon" x="329" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml</href>
+        <icon>HomeIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C25%2C142%2C49%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%2292%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Canvas" x="227" y="180" w="976" h="597" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="262" y="188" w="-1" h="-1" measuredW="247" measuredH="36" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Jane%20the%20Developer</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Paragraph" x="262" y="234" w="758" h="53" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jane%20is%20a%20developer%20with%20a%20focus%20on%20object-oriented%20custom%20implementation%20solutions.%20She%20brings%20a%20strong%20attention%20to%20detail%20and%20quality%20to%20her%20work%2C%20and%20excels%20at%20rapidly%20learning%20new%20systems%20and%20technologies%20and%20translating%20that%20knowledge%20into%20results.%20Jane%20is%20a%20team%20player%20with%20solid%20interpersonal%20skills%20and%20is%20able%20to%20build%20strong%20working%20relationships%20to%20achieve%20common%20goals.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="227" y="144" w="-1" h="-1" measuredW="316" measuredH="36" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>28</size>
+        <text>BCDevExchange%20People</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="224" w="127" h="27" measuredW="122" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>View%20on%20LinkedIn</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Canvas" x="262" y="290" w="48" h="25" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Canvas" x="603" y="290" w="52" h="25" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Canvas" x="474" y="290" w="129" h="25" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Canvas" x="311" y="290" w="162" h="25" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Label" x="273" y="292" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Java</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Label" x="612" y="292" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>JUnit</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="480" y="292" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Agile%20Methodologies</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Label" x="324" y="292" w="-1" h="-1" measuredW="134" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Software%20Development</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Label" x="262" y="430" w="-1" h="-1" measuredW="250" measuredH="36" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Dave%20the%20Developer</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Paragraph" x="262" y="476" w="758" h="19" measuredW="275" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Full%20stack%20Ruby/Rails%20developer%20with%20experience%20in%20e-commerce%2C%20social%20networking%2C%20and%20event%20management.</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Label" x="262" y="318" w="-1" h="-1" measuredW="261" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Source%3A%20LinkedIn%2C%20Last%20updated%3A%202015-03-08</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Label" x="262" y="527" w="-1" h="-1" measuredW="393" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Source%3A%20BC%20Digital%20Resource%20Catalogue%2C%20Last%20updated%3A%202015-03-04</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Button" x="1044" y="260" w="127" h="27" measuredW="112" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>View%20on%20GitHub</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Canvas" x="262" y="498" w="38" h="25" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Canvas" x="495" y="498" w="52" h="25" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Canvas" x="399" y="498" w="95" h="25" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Canvas" x="301" y="498" w="97" h="25" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="273" y="500" w="-1" h="-1" measuredW="17" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Git</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Label" x="501" y="500" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>jQuery</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Label" x="406" y="500" w="-1" h="-1" measuredW="81" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Ruby%20on%20Rails</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Label" x="310" y="500" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Amazon%20EC2</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="466" w="127" h="27" measuredW="122" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>View%20on%20LinkedIn</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Button" x="1044" y="502" w="127" h="27" measuredW="112" measuredH="27" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>View%20on%20GitHub</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::MenuBar" x="214" y="107" w="1021" h="29" measuredW="490" measuredH="29" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%2C5.0.1.1%20Resource%20search%20results%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%2C5.0.2.1%20Exchange%20-%20Profile%20Search%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%2C5.0.3.1%20project%20results%26bm%3B5.0.3.1%20project%20results.bmml%26bm%3B5.0.3.1%20project%20results.bmml%26bm%3B5.0.3.1%20project%20results.bmml%2C11.0%20Lab%20Home%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2221%2C83%2C133%2C96%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%22135%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C83%2C230%2C96%22%20href%3D%225.0.1.1%2520Resource%2520search%2520results.bmml%22%20alt%3D%225.0.1.1%20Resource%20search%20results%22%20id%3D%22135%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C83%2C313%2C96%22%20href%3D%225.0.2.1%2520Exchange%2520-%2520Profile%2520Search.bmml%22%20alt%3D%225.0.2.1%20Exchange%20-%20Profile%20Search%22%20id%3D%22135%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22322%2C83%2C386%2C96%22%20href%3D%225.0.3.1%2520project%2520results.bmml%22%20alt%3D%225.0.3.1%20project%20results%22%20id%3D%22135%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22395%2C83%2C484%2C96%22%20href%3D%2211.0%2520Lab%2520Home.bmml%22%20alt%3D%2211.0%20Lab%20Home%22%20id%3D%22135%22/%3E</map>
+        <text>%20BCDevExchange%2C%20%20%20%20%20Resources%2C%20%20%20%20%20Projects%2C%20%20%20%20%20People%2C%20%20%20%20%20The%20Lab%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="108" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>6.0%20Accounts%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22831%2C74%2C923%2C101%22%20href%3D%226.0%2520Accounts.bmml%22%20alt%3D%226.0%20Accounts%22%20id%3D%22136%22/%3E</map>
+        <text>My%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Label" x="988" y="111" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20Jane%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::ComboBox" x="737" y="110" w="-1" h="-1" measuredW="100" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Other%20Links</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
