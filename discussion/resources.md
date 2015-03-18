@@ -27,3 +27,7 @@ BCDevExchange search functionality will allow users to search on and filter Reso
 **Release 1:** Depending on the source of the resource being displayed in BCDevExchange, it may be possible to filter, retrieve, and display tags already associated with the resource. For example, BCDC already has a concept of keywords that seems functionality equivalent to tags, while GitHub does not have a clear parallel (though it could be facilitated through storing resources in a structured document, text appended to the Readme.md, badges, or something like that).  
 
 **Future State:** As BCDevExchange does not have control over how users may create and define Resources, it is possible that the Resources being defined are defined at very different levels of granularity or using various terms or descriptions. To accommodate a wide range of definitions and descriptors, Resources will be described using metadata tags. When describing a resource, users can type in whatever value they want as a tag, with the interface prompting the user with existing metadata tags that are similar to existing metadata tags.
+
+###Mockup
+![Resource Page](../wireframes/Resource Page.PNG)
+
