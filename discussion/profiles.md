@@ -14,3 +14,6 @@ All Resources added to the BCDevExchange are done so in the context of a signed 
 
 ###People Wanted
 **Release 1** One of the requirements identified is the ability to post a ‘want ad’ sort of element, to try and find a member of BCDevExchange with certain skills or interests. It’s proposed that the GitHub Issues functionality (in the context of a Repo identifying the project in question – possibly in an Inspiration or Exploration state) be used to support this sort of posting. The issue could be labelled with something like ‘help wanted’, and be picked up through a search function on BCDevExchange. 
+
+###Mockup
+![Profile Page](../wireframes/Profile Page.PNG)
