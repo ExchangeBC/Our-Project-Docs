@@ -1,0 +1,231 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1235" measuredH="802" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="211" y="34" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BC%20Developers%20Exchange%0Ahttp%3A//bcdevexchange.org/resources</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>5.0.1.1%20Resource%20search%20results%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml</href>
+        <icon>LeftArrowIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C25%2C40%2C49%22%20href%3D%225.0.1.1%2520Resource%2520search%2520results.bmml%22%20alt%3D%225.0.1.1%20Resource%20search%20results%22%20id%3D%2234%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Icon" x="329" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml</href>
+        <icon>HomeIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C25%2C142%2C49%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%2235%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="227" y="234" w="976" h="508" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="262" y="242" w="-1" h="-1" measuredW="114" measuredH="36" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>BCLaws%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="262" y="288" w="758" h="126" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BC%20Laws%20is%20an%20electronic%20library%20providing%20free%20public%20access%20to%20the%20laws%20of%20British%20Columbia.%20BC%20Laws%20is%20hosted%20by%20the%20Queen%27s%20Printer%20of%20British%20Columbia%20and%20published%20in%20partnership%20with%20the%20Ministry%20of%20Justice%20and%20the%20Law%20Clerk%20of%20the%20Legislative%20Assembly.%20BC%20Laws%20contains%20a%20comprehensive%20collection%20of%20BC%20legislation%20and%20related%20materials.%20It%20is%20available%20on%20the%20internet%20in%20two%20forms%3A%20First%3A%20The%20library%20is%20available%20as%20a%20web%20site%20in%20which%20users%20can%20browse%20and%20search%20the%20laws%20of%20British%20Columbia.%20%20Second%3A%20The%20library%20is%20available%20as%20a%20portal%20to%20legislation%20in%20raw%20XML1%20data%20format%2C%20accessible%20via%20the%20BC%20Laws%20API2.%20This%20direct%20access%20to%20raw%20data%20is%20intended%20to%20enable%20third%20parties%20to%20build%20or%20add%20their%20own%20custom%20applications%20based%20on%20the%20structure%20of%20the%20data%20and%20all%20the%20associated%20search%20functionality%20inherent%20in%20that%20structure.%20The%20BC%20Laws%20website%20itself%20is%20an%20example%20of%20one%20such%20application.</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="227" y="144" w="-1" h="-1" measuredW="461" measuredH="36" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>28</size>
+        <text>BCDevExchange%20Digital%20Resources</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Button" x="1053" y="278" w="120" h="27" measuredW="113" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>8.0%20Resource%20Page%26bm%3B8.0%20Resource%20Page.bmml%26bm%3B8.0%20Resource%20Page.bmml%26bm%3B8.0%20Resource%20Page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22842%2C244%2C962%2C271%22%20href%3D%228.0%2520Resource%2520Page.bmml%22%20alt%3D%228.0%20Resource%20Page%22%20id%3D%2279%22/%3E</map>
+        <text>View%20in%20BCDRC</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::MenuBar" x="214" y="107" w="1021" h="29" measuredW="490" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%2C5.0.1.1%20Resource%20search%20results%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%2C5.0.2.1%20Exchange%20-%20Profile%20Search%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%2C5.0.3.1%20project%20results%26bm%3B5.0.3.1%20project%20results.bmml%26bm%3B5.0.3.1%20project%20results.bmml%26bm%3B5.0.3.1%20project%20results.bmml%2C11.0%20Lab%20Home%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2221%2C83%2C133%2C96%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%2287%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C83%2C230%2C96%22%20href%3D%225.0.1.1%2520Resource%2520search%2520results.bmml%22%20alt%3D%225.0.1.1%20Resource%20search%20results%22%20id%3D%2287%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C83%2C313%2C96%22%20href%3D%225.0.2.1%2520Exchange%2520-%2520Profile%2520Search.bmml%22%20alt%3D%225.0.2.1%20Exchange%20-%20Profile%20Search%22%20id%3D%2287%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22322%2C83%2C386%2C96%22%20href%3D%225.0.3.1%2520project%2520results.bmml%22%20alt%3D%225.0.3.1%20project%20results%22%20id%3D%2287%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22395%2C83%2C484%2C96%22%20href%3D%2211.0%2520Lab%2520Home.bmml%22%20alt%3D%2211.0%20Lab%20Home%22%20id%3D%2287%22/%3E</map>
+        <text>%20BCDevExchange%2C%20%20%20%20%20Resources%2C%20%20%20%20%20Projects%2C%20%20%20%20%20People%2C%20%20%20%20%20The%20Lab%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="108" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>6.0%20Accounts%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22831%2C74%2C923%2C101%22%20href%3D%226.0%2520Accounts.bmml%22%20alt%3D%226.0%20Accounts%22%20id%3D%2288%22/%3E</map>
+        <text>My%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="988" y="111" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20Jane%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Canvas" x="262" y="421" w="48" h="25" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Canvas" x="399" y="421" w="77" h="25" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>9684093</color>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Canvas" x="354" y="421" w="44" h="25" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Canvas" x="312" y="421" w="41" h="25" measuredW="100" measuredH="70" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027263</color>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="273" y="424" w="-1" h="-1" measuredW="22" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>API</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="410" y="423" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>legislation</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="366" y="423" w="-1" h="-1" measuredW="21" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>xml</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Label" x="324" y="423" w="-1" h="-1" measuredW="18" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>BC</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Label" x="262" y="484" w="-1" h="-1" measuredW="533" measuredH="36" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Physical%20Address%20Geocoding%20Web%20Service</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Paragraph" x="262" y="530" w="758" h="50" measuredW="275" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Physical%20Address%20Geocoder%20can%20be%20used%20to%20resolve%20physical%20locations%20%28i.e.%2C%20latitude%20and%20longtitude%29%20from%20place%20names%20and%20addresses%20in%20British%20Columbia.%20This%20RESTful%20web%20service%20and%20corresponding%20web%20application%20interface%20can%20also%20be%20used%20to%20correct%20and%20standardize%20civic%20and%20non-civic%20addresses%20in%20British%20Columbia.%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Button" x="1053" y="520" w="120" h="27" measuredW="113" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>8.0%20Resource%20Page%26bm%3B8.0%20Resource%20Page.bmml%26bm%3B8.0%20Resource%20Page.bmml%26bm%3B8.0%20Resource%20Page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22842%2C486%2C962%2C513%22%20href%3D%228.0%2520Resource%2520Page.bmml%22%20alt%3D%228.0%20Resource%20Page%22%20id%3D%22102%22/%3E</map>
+        <text>View%20in%20BCDRC</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Canvas" x="262" y="581" w="48" h="25" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Canvas" x="446" y="581" w="77" h="25" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12745632</color>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Canvas" x="372" y="581" w="73" h="25" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>65535</color>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Canvas" x="312" y="581" w="58" h="25" measuredW="100" measuredH="70" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="273" y="584" w="-1" h="-1" measuredW="22" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>API</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Label" x="457" y="583" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>geocode</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Label" x="384" y="583" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>address</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Label" x="324" y="583" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>REST</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Canvas" x="524" y="581" w="79" h="25" measuredW="100" measuredH="70" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Label" x="537" y="584" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>geocoder</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Label" x="262" y="446" w="-1" h="-1" measuredW="393" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Source%3A%20BC%20Digital%20Resource%20Catalogue%2C%20Last%20updated%3A%202015-03-04</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Label" x="262" y="605" w="-1" h="-1" measuredW="393" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Source%3A%20BC%20Digital%20Resource%20Catalogue%2C%20Last%20updated%3A%202015-03-04</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Label" x="457" y="192" w="-1" h="-1" measuredW="55" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Source%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="251" y="192" w="-1" h="-1" measuredW="66" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Keyword%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::TextInput" x="321" y="192" w="122" h="-1" measuredW="79" measuredH="26" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::ComboBox" x="524" y="192" w="122" h="-1" measuredW="67" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BCDC</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::ComboBox" x="737" y="110" w="-1" h="-1" measuredW="100" measuredH="24" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Other%20Links</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,161 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1235" measuredH="802" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="211" y="34" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BC%20Developers%20Exchange%0Ahttp%3A//bcdevexchange.org/people</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>5.0.1.1%20Resource%20search%20results%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml</href>
+        <icon>LeftArrowIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C25%2C40%2C49%22%20href%3D%225.0.1.1%2520Resource%2520search%2520results.bmml%22%20alt%3D%225.0.1.1%20Resource%20search%20results%22%20id%3D%2285%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Icon" x="329" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml</href>
+        <icon>HomeIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C25%2C142%2C49%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%2286%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Canvas" x="227" y="180" w="976" h="597" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="262" y="188" w="-1" h="-1" measuredW="369" measuredH="36" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>The%20BCDevExchange%20Project</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Paragraph" x="262" y="234" w="758" h="86" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20goal%20of%20this%20project%20is%20to%20create%20an%20ecosystem%20of%20innovation%20and%20collaboration%20between%20tech%20entrepreneurs%20and%20British%20Columbia%27s%20public%20sector.%20We%27re%20thinking%20about%20stuff%20in%20Research%2C%20building%20and%20testing%20stuff%20in%20Discovery%2C%20and%20have%20finished%20some%20stuff%20in%20Delivery%20-%20like%20this%20site%3B%29%20%0A%20%0ACheck%20us%20out%20on%20GitHub%2C%20collaborate%20on%20our%20ideas%2C%20and%20help%20shape%20its%20development%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Label" x="227" y="144" w="-1" h="-1" measuredW="343" measuredH="36" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>28</size>
+        <text>BCDevExchange%20Projects</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Canvas" x="262" y="316" w="74" h="25" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="273" y="318" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Delivery</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="262" y="388" w="-1" h="-1" measuredW="323" measuredH="36" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Geocoder%20Enhancements</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Paragraph" x="262" y="426" w="758" h="42" measuredW="275" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%27ve%20been%20exploring%20some%20new%20ideas%20to%20help%20enhance%20the%20Geocoder%20functionality.%20Come%20weigh%20in%20on%20the%20discussion%2C%20and%20let%20us%20know%20what%20features%20you%27d%20like%20to%20see%20next.%20Opportunities%20for%20development%20contributions%20and%20collaboration.</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Label" x="262" y="344" w="-1" h="-1" measuredW="247" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Source%3A%20GitHub%2C%20Last%20updated%3A%202015-03-12</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Label" x="262" y="483" w="-1" h="-1" measuredW="244" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Source%3A%20GitHub%2C%20Last%20updated%3A%202015-03-11</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="234" w="127" h="27" measuredW="97" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>GitHub%20Repo</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="434" w="127" h="27" measuredW="97" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>GitHub%20Repo</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="316" w="74" h="25" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Label" x="347" y="318" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Discovery</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Canvas" x="410" y="316" w="74" h="25" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Label" x="421" y="318" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Research</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Canvas" x="262" y="458" w="74" h="25" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Label" x="273" y="460" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Research</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="458" w="110" h="25" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="347" y="460" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Rapid%20Adoption</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::MenuBar" x="214" y="107" w="1021" h="29" measuredW="490" measuredH="29" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%2C5.0.1.1%20Resource%20search%20results%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%26bm%3B5.0.1.1%20Resource%20search%20results.bmml%2C5.0.2.1%20Exchange%20-%20Profile%20Search%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%26bm%3B5.0.2.1%20Exchange%20-%20Profile%20Search.bmml%2C5.0.3.1%20project%20results%26bm%3B5.0.3.1%20project%20results.bmml%26bm%3B5.0.3.1%20project%20results.bmml%26bm%3B5.0.3.1%20project%20results.bmml%2C11.0%20Lab%20Home%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2221%2C83%2C133%2C96%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%22127%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C83%2C230%2C96%22%20href%3D%225.0.1.1%2520Resource%2520search%2520results.bmml%22%20alt%3D%225.0.1.1%20Resource%20search%20results%22%20id%3D%22127%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C83%2C313%2C96%22%20href%3D%225.0.2.1%2520Exchange%2520-%2520Profile%2520Search.bmml%22%20alt%3D%225.0.2.1%20Exchange%20-%20Profile%20Search%22%20id%3D%22127%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22322%2C83%2C386%2C96%22%20href%3D%225.0.3.1%2520project%2520results.bmml%22%20alt%3D%225.0.3.1%20project%20results%22%20id%3D%22127%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22395%2C83%2C484%2C96%22%20href%3D%2211.0%2520Lab%2520Home.bmml%22%20alt%3D%2211.0%20Lab%20Home%22%20id%3D%22127%22/%3E</map>
+        <text>%20BCDevExchange%2C%20%20%20%20%20Resources%2C%20%20%20%20%20Projects%2C%20%20%20%20%20People%2C%20%20%20%20%20The%20Lab%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="108" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>6.0%20Accounts%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22831%2C74%2C923%2C101%22%20href%3D%226.0%2520Accounts.bmml%22%20alt%3D%226.0%20Accounts%22%20id%3D%22128%22/%3E</map>
+        <text>My%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="988" y="111" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20Jane%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::ComboBox" x="737" y="110" w="-1" h="-1" measuredW="100" measuredH="24" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Other%20Links</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
