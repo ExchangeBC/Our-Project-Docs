@@ -5,9 +5,9 @@
 
 #Lab
 
-*Note: Lab should not be confused with current state lab.bcdevexchang.org as of March 2015*
+*Note: Labs should not be confused with current state lab.bcdevexchang.org as of March 2015*
 
-**Release 1:** In support of the principles of open development and co-creation, it is proposed that the BCDevExchange website be enhanced to include a "lab" space. This lab area will allow members of the BCDevExchange to showcase and share functionality and content that is in the Delivery and Research states, while providing some protection and coverage to those sharing in the lab. The lab, and its contents, will all be clearly labeled as being in the lab, with disclaimers and descriptions of what that means. 
+**Release 1:** In support of the principles of open development and co-creation, it is proposed that the BCDevExchange website be enhanced to include a "labs" space. This labs area will allow members of the BCDevExchange to showcase and share functionality and content that is in the Inspiration and Exploration states, while providing some protection and coverage to those sharing in the lab. The lab, and its contents, will all be clearly labeled as being in the lab, with disclaimers and descriptions of what that means. 
 
 In addition to providing a location and framework for the BCDevExchange to share ideas, concepts, functionality, and content being considered for the BCDevExchange.org itself, the lab is also intended to support other, non-BCDevExchange projects, giving them a safe place to evolve and share. 
 
