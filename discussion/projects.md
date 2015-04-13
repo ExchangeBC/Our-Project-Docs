@@ -6,15 +6,11 @@
 
 ##Projects
 
-**Release 1:** BCDevExchange will support the concept of a Project, which is a record reflecting some sort of initiative, activity, or task that is occurring in the real world, and is presumably of some interest to the members of BCDevExchange. This is intended to allow people to share information of ongoing activities with the rest of BCDevExchange, and could include everything from a concept that people are looking to discuss, to an unmet business need looking for suggestions for a solution, to an active development activity (and using a [Project State](projectstates.md) to help indicate where it currently is). Not all Projects will have any kind of output. While some may produce some sort of usable digital resource, such as an application or piece of code, others may start and end in the Inspiration state, never changing to the Exploration or Delivery states. A project will include a title and description, and a current state / status. 
+**Release 1:** BCDevExchange will support the concept of a Project, which is a record reflecting some sort of initiative, activity, or task that is occurring in the real world, and is presumably of some interest to the members of BCDevExchange. This is intended to allow people to share information of ongoing activities with the rest of BCDevExchange, and could include everything from a concept that people are looking to discuss, to an unmet business need looking for suggestions for a solution, to an active development activity (and using a [Project State](projectstates.md) to help indicate where it currently is). Not all Projects will have any kind of output. While some may produce some sort of usable digital resource, such as an application or piece of code, others may start and end in the Inspiration state, never changing to the Exploration or Delivery states. 
 
-For early releases, we are looking at a way to identify GitHub repos identified as projects, via a search on BCDevExchange. Some identifier in the repo could be used to flag the project state when it is displayed on BCDevExchange, using the [Project State](projectstates.md) iconography / definitions.
+For early releases, we are using GitHub repos to support projects. Issues associated with the Project repo will be used to expose a project backlog, and related opportunities and needs.
 
-###Projects as Opportunities 
-
-**Future State:** The Project concept / element is intended to be where [Unmet Needs or Contract Opportunities](opportunities.md) would be defined, either as the project itself, or a new element hanging off of the project element (such as [project backlogs](backlogs.md)). This idea needs further expansion and exploration. 
-
-###Business Needs
+###Projects and Business Needs
 
 A number of business needs have been identified that we believe will be met through the use of Projects and Backlogs, with the solutions utilizing either one (either projects or backlogs) or both of these (projects and backlogs). As part of the proposed solutions,  the concept of labels and tags will be used, which is the idea of associating one or more tags / labels (pre-defined words or terms), which will assist both the system and its users in easily identifying and associating projects and backlogs with the business need they are helping to meet. 
 
