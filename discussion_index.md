@@ -13,6 +13,7 @@ Index for Discussion folder content.
     * [Project States](discussion/projectstates.md)
     * [Project Backlogs](discussion/backlogs.md)
     * [Projects in GitHub](discussion/github.md) 
+* [Programs](discussion/programs.md)
 * [Resources](discussion/resources.md)
     * [Resources in GitHub](discussion/github.md)
 * [State Labels](discussion/statelabels.md)
