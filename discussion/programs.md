@@ -34,13 +34,12 @@ The contents of the Program Page will be generated from a source .md file in Git
 
 Program Page Structure
 Based on an analysis of the wireframe used as a driver for this enhancement, the following structure is proposed as a template for the Program Page. Formatting and fonts will be aligned with as per the existing BCDevExchange.org styles. 
-Section Title – The title of a section. Used for the page header / titles and section headers. A Section Title should display in its own row. Interpret markdown Header 1 or 2 as Section Titles. Any Content that follows the Section title should display as full page width. Section Titles should be left aligned.
+Section Title – The title of a section. Used for the page header / titles and section headers. A Section Title should display in its own row. Interpret markdown Header 2 as Section Titles. Any Content that follows the Section title should display as full page width. Section Titles should be left aligned.
 
 
-    #Heading = <h1>Heading 1</h1>
     ##Heading = <h2>Heading 2</h2>
     
-Subsection Title – The title of a subsection, to be interpreted into a column style. Interpret any headers in markdown not equal to Header 1 or 2 as Subsection Titles. These titles are intended to support column headers, with multiple columns spanning a page. Subsection Titles should be left aligned. 
+Subsection Title – The title of a subsection, to be interpreted into a column style. Interpret any headers in markdown less than Header 2 as Subsection Titles. These titles are intended to support column headers, with multiple columns spanning a page. Subsection Titles should be left aligned. 
     
     ###Heading = <h3>Heading 3</h3>
     ####Heading = <h4>Heading 4</h4>
