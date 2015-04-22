@@ -26,20 +26,36 @@ The new Program entity will exist above the existing Project entity, with each P
 BCDevExchange will be enhanced to include a Program Directory – a page, accessible from the navigation bar (similar to Resources and Project searches), that provides a listing of all of the Programs registered with BCDevExchange. This directory will display each Program’s title, description, tags, and link to the Programs Page on BCDevExchange.
 The contents of the Program Directory will be moderated by the BCDevExchange dev team, through the use of a source file in GitHub (a .yml file in the BCDevExchange-Programs repo). The listing in GitHub will include a URL identifying a separate .md file in the same GitHub repo, which will contain further details for the Program, and used to generate the Program Page.
 
-#Program Page
+#Program Directory
 
-For each Program listed in the Program Directory, a Program Page will be accessible on BCDevExchange. This page will display a breadth of information about the selected Program, and provide (to be determined) functionality for drilling down on Program details, viewing associated Projects, Backlogs, Resources, Links, and other rich content.
- 
-The contents of the Program Page will be generated from a source .md file in GitHub, which will be converted from markdown to html through new logic added to BCDevExchange. The source .md will be created jointly between the BCDevExchange dev team and the Program owner, and will reside in a BCDevExchange repo, allowing for full moderation control by BCDevExchange, though allowing for modifications to be made by the Program owner, and submitted through pull requests. 
+The Program Directory provides a listing of all of the Programs registered with BCDevExchange. This directory will display each Program’s title, description, tags, and link to the Programs Page on BCDevExchange.
+The Program Directory page is moderated by the BCDevExchange dev team, through the use of a programs.yml file in the BCDevExchange-Programs repo. The listing in GitHub will include a URL identifying a separate .md file in the same GitHub repo, which will contain further details for the Program, and used to generate the Program Page.
 
-Program Page Structure
-Based on an analysis of the wireframe used as a driver for this enhancement, the following structure is proposed as a template for the Program Page. Formatting and fonts will be aligned with as per the existing BCDevExchange.org styles. 
-Section Title – The title of a section. Used for the page header / titles and section headers. A Section Title should display in its own row. Interpret markdown Header 2 as Section Titles. Any Content that follows the Section title should display as full page width. Section Titles should be left aligned.
+To list a Program with the Program Directory function, the following framework / process is proposed.
+
+###How to add a new Program to the Program Directory
+
+1.	Work with the Program Owner to define the Program listing
+2.	Access the directory.yml file in GitHub (https://github.com/BCDevExchange/BCDevExchange-Programs/blob/master/directory.yml) 
+3.	Create space for a new record by copying and pasting an existing record, or copying and pasting the example record structure
+4.	Define the title, description, owner, logo, tags, url, and visible for the Program (.yml contains descriptions of what these values to of these)
+5.	Commit the changes to directory.yml
+
+Note: If a logo is referenced in the directory for a Program listing, it will replace the Title display. A Program in the Directory can have a Title or Logo, but not both. Logos can be stored in the Logos Repo in BCDevExchange-Programs.
+
+
+##Program Page Structure
+
+The .md file in GitHub will be structured using the following logic, intended to be interpreted by BCDevExchange into HTML. See the exampleprogram.md (https://github.com/BCDevExchange/BCDevExchange-Programs/blob/master/Programs/exampleprogram.md). Not all Markdown features are supported. The focus is on a minimal viable product as the demand for Program Pages is evaluated.
+
+**Page Title** – Will be automatically generated based on the title in the directory.yml. 
+
+**Section Title** – The title of a section. Used for the page header / titles and section headers. A Section Title should display in its own row. Interpret markdown Header 2 as Section Titles. Any Content that follows the Section title should display as full page width. Section Titles should be left aligned.
 
 
     ##Heading = <h2>Heading 2</h2>
     
-Subsection Title – The title of a subsection, to be interpreted into a column style. Interpret any headers in markdown less than Header 2 as Subsection Titles. These titles are intended to support column headers, with multiple columns spanning a page. Subsection Titles should be left aligned. 
+**Subsection Title** – The title of a subsection, to be interpreted into a column style. Interpret any headers in markdown less than Header 2 as Subsection Titles. These titles are intended to support column headers, with multiple columns spanning a page. Subsection Titles should be left aligned. 
     
     ###Heading = <h3>Heading 3</h3>
     ####Heading = <h4>Heading 4</h4>
