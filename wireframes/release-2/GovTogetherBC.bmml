@@ -1,0 +1,159 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1235" measuredH="1195" mockupW="1024" mockupH="1161">
+  <controls>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml</href>
+        <icon>LeftArrowIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C25%2C40%2C49%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%2223%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Icon" x="329" y="61" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>11.0%20Lab%20Home%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml</href>
+        <icon>HomeIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C27%2C142%2C51%22%20href%3D%2211.0%2520Lab%2520Home.bmml%22%20alt%3D%2211.0%20Lab%20Home%22%20id%3D%2271%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="211" y="34" w="1024" h="1161" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BC%20Developers%20Exchange%0Ahttp%3A//bcdevexchange.org/programs/govtogetherbc</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="246" y="161" w="-1" h="-1" measuredW="242" measuredH="40" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>32</size>
+        <text>GovTogetherBC</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="209" w="938" h="105" measuredW="275" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>GovTogetherBC%20is%20an%20online%20hub%20that%20lists%20citizen%20engagement%20and%20community-building%20opportunities.%20Citizens%20can%20visit%20the%20hub%20to%20see%20ways%20they%20can%20get%20more%20involved%20and%20help%20shape%20BC%20government%20policy%2C%20programs%2C%20and%20services.%20GovTogetherBC%20supports%20the%20government%20in%20its%20objective%20to%20become%20more%20transparent%20and%20accessible%20and%20includes%20both%20provincial%20and%20regional%20citizen%20engagement%20opportunities%2C%20and%20posts%20many%20of%20the%20citizen%20engagement%20outcomes%2C%20so%20citizens%20can%20see%20the%20recommendations%20or%20plans%20they%20helped%20shape.%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::MenuBar" x="214" y="107" w="1021" h="29" measuredW="547" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2C1.%20Labs%20-%20Landing%20Page%26bm%3B1.%20Labs%20-%20Landing%20Page.bmml%26bm%3B1.%20Labs%20-%20Landing%20Page.bmml%26bm%3B1.%20Labs%20-%20Landing%20Page.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22412%2C83%2C466%2C96%22%20href%3D%221.%2520Labs%2520-%2520Landing%2520Page.bmml%22%20alt%3D%221.%20Labs%20-%20Landing%20Page%22%20id%3D%22123%22/%3E</map>
+        <text>%20BCDevExchange%2C%20%20%20%20%20Resources%2C%20%20%20%20%20Projects%2C%20%20%20%20%20Programs%2C%20%20%20%20%20Labs%2C%20%20%20%20%20Blog%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="108" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>6.0%20Accounts%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22831%2C74%2C923%2C101%22%20href%3D%226.0%2520Accounts.bmml%22%20alt%3D%226.0%20Accounts%22%20id%3D%22124%22/%3E</map>
+        <text>My%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Label" x="988" y="111" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20Jane%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="246" y="412" w="-1" h="-1" measuredW="377" measuredH="40" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>32</size>
+        <text>Understand%20our%20Strategy</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="246" y="525" w="-1" h="-1" measuredW="203" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Our%20current%20state</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="911" y="525" w="-1" h="-1" measuredW="233" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Meet%20our%20customers</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Paragraph" x="911" y="557" w="273" h="182" measuredW="275" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Learn%20about%20our%20target%20user%20groups%20and%20audience.%0A%20%0A%5BPersonas%5D%0A%5BUser%20Stories%5D%0A%5BJourney%20Maps%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Label" x="587" y="525" w="-1" h="-1" measuredW="257" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Delivering%20our%20program</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Paragraph" x="587" y="557" w="273" h="182" measuredW="275" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Get%20an%20insider%27s%20perspective%20on%20how%20the%20Program%20is%20delivered.%0A%20%0A%5BDelivery%20Process%5D%0A%5BPolicies%5D%0A%5BUpcoming%20Events%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Label" x="246" y="323" w="-1" h="-1" measuredW="227" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>On%20BCDevExchange</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="355" w="938" h="43" measuredW="275" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>We%27re%20on%20BCDevExchange%20to%20help%20provide%20context%20for%20the%20Projects%20and%20Resources%20we%27re%20sharing%20with%20the%20community%2C%20hoping%20that%20this%20will%20help%20encourage%20developers%20and%20entrepreneurs%20to%20engage%20with%20the%20GovTogetherBC%20Program.</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Label" x="734" y="803" w="-1" h="-1" measuredW="222" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Program%20Resources</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Paragraph" x="734" y="835" w="465" h="322" measuredW="275" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Take%20a%20look%20at%20some%20of%20the%20Resources%20we%27ve%20shared%20with%20BCDevExchange%2C%20and%20see%20what%20we%20might%20be%20working%20with.%20Send%20us%20your%20ideas%20about%20how%20these%20could%20be%20improved%20or%20enhanced.%20%0A%20%0A%5BWordPress%201.0%5D%0A%20%0A%5BPrograms%20Self%20Listing%20API%5D%0A%09%5BIn%20the%20labs%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="246" y="803" w="-1" h="-1" measuredW="194" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Current%20Projects</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="835" w="465" h="323" measuredW="275" measuredH="80" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Check%20out%20our%20Projects%20to%20learn%20what%20activities%20are%20being%20planned%20or%20in%20progress%2C%20and%20to%20find%20opportunities%20to%20get%20involved.%20%0A%20%0A%5BWordPress%201.0%20Migration%5D%20-%20%5B3%20Opportunities%21%5D%0AWe%27re%20planning%20a%20migration%20from%20CMS%20to%20Wordpress%0A%20%0A%5BAutomated%20Management%5D%20-%20%5B1%20Opportunity%21%5D%0AExploring%20APIs%20for%20self%20management%20of%20listings%20by%20Program%20Owners%0A%20%0A%5BOpen%20Listings%5D%20-%20%5B2%20Opportunities%21%5D%0AHelp%20increase%20discoverability%20through%20federated%20access%20to%20Program%20listings%0A%20%0A%5BOpen%20Listings%20Analysis%5D%0AAre%20Municipalities%20/%20BPS%20interested%20in%20listing%20with%20us%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="557" w="273" h="183" measuredW="275" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Check%20out%20our%20Program%20in%20action%20through%20its%20existing%20web%20presence.%0A%20%20%0A%5BGovTogetherBC%20Website%5D%0A%20-%20%5BConsultation%20Listing%5D%0A%20-%20%5BCommunity%20Program%5D%0A%20-%20%5BSubscriptions%5D%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::Label" x="246" y="724" w="-1" h="-1" measuredW="369" measuredH="40" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>32</size>
+        <text>Projects%20and%20Resources</text>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="452" w="938" h="61" measuredW="275" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Interested%20in%20learning%20more%20about%20the%20GovTogetherBC%20Program%2C%20and%20how%20you%20may%20be%20able%20to%20get%20involved%3F%20We%27ve%20got%20a%20lot%20of%20material%20that%20may%20help%20you%20understand%20the%20current%20state%20of%20our%20Program%2C%20how%20it%27s%20delivered%2C%20our%20intended%20audience%2C%20and%20our%20roadmap%20for%20the%20future.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="764" w="938" h="24" measuredW="275" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>We%27ve%20got%20a%20number%20of%20Projects%20and%20Resources%20listed%20with%20BCDevExchange.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

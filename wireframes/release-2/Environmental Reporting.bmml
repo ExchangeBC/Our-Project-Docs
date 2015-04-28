@@ -1,0 +1,137 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1235" measuredH="941" mockupW="1024" mockupH="907">
+  <controls>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1.0%20BCDevX%20Landing%20Page%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml%26bm%3B1.0%20BCDevX%20Landing%20Page.bmml</href>
+        <icon>LeftArrowIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C25%2C40%2C49%22%20href%3D%221.0%2520BCDevX%2520Landing%2520Page.bmml%22%20alt%3D%221.0%20BCDevX%20Landing%20Page%22%20id%3D%2223%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Icon" x="329" y="61" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>11.0%20Lab%20Home%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml%26bm%3B11.0%20Lab%20Home.bmml</href>
+        <icon>HomeIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C27%2C142%2C51%22%20href%3D%2211.0%2520Lab%2520Home.bmml%22%20alt%3D%2211.0%20Lab%20Home%22%20id%3D%2271%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="211" y="34" w="1024" h="907" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BC%20Developers%20Exchange%0Ahttp%3A//bcdevexchange.org/programs/template</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="246" y="161" w="-1" h="-1" measuredW="429" measuredH="40" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>32</size>
+        <text>Environmental%20Reporting%20BC</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="209" w="938" h="125" measuredW="275" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Environmental%20Reporting%20BC%20provides%20access%20to%20scientific%20data%20and%20information%20about%20our%20environment%20and%20how%20it%20relates%20to%20British%20Columbians.%20The%20program%20uses%20the%20best%20available%20data%20on%20B.C.%u2019s%20environment%20to%20produce%20indictors%2C%20maps%2C%20and%20graphs%20that%20track%20trends%20and%20conditions%20over%20time%2C%20reports%20information%20that%20is%20easy%20to%20find%20and%20understand%2C%20helps%20track%20progress%20towards%20sustainability%2C%20and%20provides%20for%20informed%20decision-making%20for%20individuals%20and%20policy%20makers.</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::MenuBar" x="214" y="107" w="1021" h="29" measuredW="547" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2C1.%20Labs%20-%20Landing%20Page%26bm%3B1.%20Labs%20-%20Landing%20Page.bmml%26bm%3B1.%20Labs%20-%20Landing%20Page.bmml%26bm%3B1.%20Labs%20-%20Landing%20Page.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22412%2C83%2C466%2C96%22%20href%3D%221.%2520Labs%2520-%2520Landing%2520Page.bmml%22%20alt%3D%221.%20Labs%20-%20Landing%20Page%22%20id%3D%22123%22/%3E</map>
+        <text>%20BCDevExchange%2C%20%20%20%20%20Resources%2C%20%20%20%20%20Projects%2C%20%20%20%20%20Programs%2C%20%20%20%20%20Labs%2C%20%20%20%20%20Blog%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Button" x="1042" y="108" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>6.0%20Accounts%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml%26bm%3B6.0%20Accounts.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22831%2C74%2C923%2C101%22%20href%3D%226.0%2520Accounts.bmml%22%20alt%3D%226.0%20Accounts%22%20id%3D%22124%22/%3E</map>
+        <text>My%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Label" x="988" y="111" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20Jane%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="246" y="405" w="-1" h="-1" measuredW="276" measuredH="40" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>32</size>
+        <text>Program%20Materials</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="246" y="445" w="-1" h="-1" measuredW="184" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Existing%20Content</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="477" w="273" h="153" measuredW="275" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Website%0A-%20Indicators%20%28on-line%20and%20PDF%20formats%29%0AGitHub%0A-%20R-code%20supporting%20analyses%0ADataBC%0A-%20BCGov%20environmental%20data%0A-%20data%20supporting%20EnvReportBC%20anal%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="911" y="445" w="-1" h="-1" measuredW="140" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>User%20Groups</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Paragraph" x="911" y="477" w="273" h="153" measuredW="275" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Government%20Analysts%0APolicy%20Advisors%0AAcademics%20%26%20Researchers%0AScience%20Teachers%0AStudents%0APublic</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Label" x="587" y="445" w="-1" h="-1" measuredW="192" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Program%20Delivery%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Paragraph" x="587" y="477" w="273" h="153" measuredW="275" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>About%20Environmental%20Reporting</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Label" x="246" y="309" w="-1" h="-1" measuredW="222" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>On%20BCDevExchange</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="341" w="938" h="35" measuredW="275" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>A%20number%20of%20opportunities%20are%20available%20for%20coders%2C%20analysts%2C%20students%20and%20scientists%20to%20engage%20with%20the%20Environmental%20Reporting%20BC%20program%2C%20to%20help%20enhance%20its%20analytical%20tools%20and%20environmental%20reporting%20products.</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Label" x="726" y="701" w="-1" h="-1" measuredW="203" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Linked%20Resources</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Label" x="246" y="701" w="-1" h="-1" measuredW="180" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Linked%20Projects</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Paragraph" x="246" y="733" w="976" h="167" measuredW="275" measuredH="80" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>wqbc%20R-package%20enhancements%20%u2013%201%20Opportunity%21%20%09%09%09GitHub%2C%20R%0A-%20Add%20trend%20analyses%20capability%0Abcgroundwater%20R-package%20enhancements%20%u2013%201%20Opportunity%21%20%09%09GitHub%2C%20R%0A-%20Help%20with%20suggested%20enhancements%0AContent%20feedback%20%u2013%201%20Opportunity%21%20%09%09%09%09%09EnvReportBC%20website%0A-%20Are%20we%20working%20on%20the%20most%20important%20indicators%3F%0ACollaborative%20indicator%20development%20%u2013%203%20Opportunities%21%20%09%09EnvReportBCgov.bc.ca%0A-%20Help%20update%20or%20create%20environmental%20indicators</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Label" x="246" y="650" w="-1" h="-1" measuredW="369" measuredH="40" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>32</size>
+        <text>Projects%20and%20Resources</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
