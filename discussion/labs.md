@@ -31,6 +31,6 @@ The existing BCDevExchange.org app provides a use-case to justify the need for a
 
 Several ideas are being considered for how the Lab concept will be handled. The below mockup shows a lab landing page, accessed via BCDevExchange, which would provide links to different things in the lab. 
 
-![Lab Wireframe](../wireframes/Lab.PNG)
+![Lab Wireframe](../wireframes/release-1/Lab.PNG)
 
 
