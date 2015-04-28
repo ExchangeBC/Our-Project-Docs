@@ -16,9 +16,9 @@ Users need to be able to sign in and sign out of BCDevExchange. When signing in,
 
 The sign up process is expected to be handled either through an existing GitHub account or an existing LinkedIn account. A minimum amount of information is intended to be stored by BCDevExchange (just enough to allow subsequent log ins). Sign Up using GitHub is expected to be available in **Release 1**, while Sign Up via LinkedIn may be available only in a **Future Release**.   
 
-![Sign Up](../wireframes/Sign Up.PNG)
+![Sign Up](../wireframes/release-1/Sign Up.PNG)
 
 Linking repos is being considered for a future release, allowing members of BCDevExchange to self register and maintain projects and resources (via GitHub repos).
 
-![Accounts](../wireframes/Account.PNG)
+![Accounts](../wireframes/release-1/Account.PNG)
 
