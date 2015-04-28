@@ -97,4 +97,4 @@ Within the context of a project, users can create posts to share with BCDevExcha
 Projects may be related to one or more BCDevExchange resources, with the same Resource possibly being associated with multiple Projects, and identified via the same pool of metadata tags that are used to define resources. BCDevExchange would facilitate searching on projects similar to resources. Projects can also be related to other Projects, and to one or more Organizations. 
 
 ###Mockup
-![Project Page](../wireframes/Project Page.PNG)
+![Project Page](../wireframes/release-1/Project Page.PNG)
