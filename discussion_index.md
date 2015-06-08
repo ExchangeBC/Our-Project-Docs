@@ -3,6 +3,7 @@ Index for Discussion folder content.
 ---
 
 [Discussion Index](discussion_index.md)
+* [BC Developers' Exchange Overview](discussion/BCDevExchangeIntroductionv3kam.pdf)
 * [Accounts](discussion/accounts.md)
 * [Organizations](discussion/organizations.md)
 * [Opportunities](discussion/opportunities.md)
