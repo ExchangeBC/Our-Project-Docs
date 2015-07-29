@@ -32,3 +32,5 @@ Architecture
 * [Architecture Document](discussion/architecture.md)
 * [Developer Registration](discussion/devregistration.md)
 * [Domain Model](discussion/domainmodel.md)
+
+testing rapid adoption
