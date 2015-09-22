@@ -12,6 +12,7 @@ BCDevExchange artefacts including documents, templates, a wiki (deprecated) and 
 ---
 #Post-R2 Stuff
 (Sept 2015 to ....)
+* [Spike 30 Meeting Notes 2015-09-22](spikes/Spike30-Meeting-Notes-2015-09-22.md)
 #Pre-R2 Stuff
 (Prior to Sept 2015)
 
