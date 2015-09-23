@@ -52,7 +52,7 @@
 #####Feature needed by DevExchange
 	*  API Explorer
 	*  Search
-	*  Code Snipits
+	*  Code Snippets
 
 ---	
 ###Extended Channel: (gateway plus self hosted API)
