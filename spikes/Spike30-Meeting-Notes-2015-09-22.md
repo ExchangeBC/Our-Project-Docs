@@ -1,9 +1,50 @@
-#API Owner Engagement Level 
+#API Owner Engagement Level
 (service scenarios using BCdevExchange):
 ----
 ---
+
+<table>
+  <tr>
+    <th>Engagement Level  in Ascending Order</th>
+    <th>Self Serviceable?</th>
+    <th>Provider Activity</th>
+    <th>Feature Needed</th>
+  </tr>
+  <tr>
+    <td>Advertisement Only</td>
+    <td>Yes</td>
+    <td>supply swagger URL</td>
+    <td>API explorer;<br>search;<br>code snippet;</td>
+  </tr>
+  <tr>
+    <td>Extended Channel</td>
+    <td>Yes</td>
+    <td>compose swagger</td>
+    <td>+ API gateway;<br>swagger composer</td>
+  </tr>
+  <tr>
+    <td>Exclusive Channel<br>(Migrate Domain)</td>
+    <td>Yes</td>
+    <td>+ supply SSL cert files<br>change existing DNS to a CNAME</td>
+    <td>+ dynamic SSL cert selector</td>
+  </tr>
+  <tr>
+    <td>Simple hosted repo with CRUD operation</td>
+    <td>Yes</td>
+    <td>Create data model via GUI</td>
+    <td>+ modeler</td>
+  </tr>
+  <tr>
+    <td>Complex hosted repo <br>(custom code to transform data)</td>
+    <td>No</td>
+    <td>+ supply custom code via PR</td>
+    <td>GitHub!</td>
+  </tr>
+</table>
+
+
 ###Advertisement only
-	* shallow integration (tags, links, and description)
+	* beyond shallow integration (tags, links, and description)
 	* provide API explorer (no dependancy on gateway)
 	* Self service
 #####Builder Activity:
@@ -53,3 +94,8 @@ Tool Kit:
 	* Dynamic SSL cert: NodeJS package
 	* Modeler:
 	* Code Repos: GitHub
+
+## Other Common Services
+* Analytics & Reporting
+* Logging
+* APM
