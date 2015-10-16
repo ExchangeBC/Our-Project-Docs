@@ -1,6 +1,7 @@
-[![Stories in Ready](https://badge.waffle.io/BCDevExchange/Our-Project-Docs.png?label=ready&title=Ready)](https://waffle.io/BCDevExchange/Our-Project-Docs)
+
 <a rel="Inspiration" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="http://bcdevexchange.org/badge/1.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
-[![Join the chat at https://gitter.im/BCDevExchange/Our-Project-Docs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BCDevExchange/Our-Project-Docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+##Our Active Work Items: [![Stories in Ready](https://badge.waffle.io/BCDevExchange/Our-Project-Docs.png?label=ready&title=Ready)](https://waffle.io/BCDevExchange/Our-Project-Docs)
+[![Join the chat at https://gitter.im/BCDevExchange/Our-Project-Docs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BCDevExchange/Our-Project-Docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Please do not provide any personal information or third-party personal information (ie. talk about others) in your use of the Gitter application. Any information you choose to provide will not be in the custody or control of the Ministry of Advanced Education. For more information, please see the Privacy Policy of Gitter.")
 # docs
 
 
